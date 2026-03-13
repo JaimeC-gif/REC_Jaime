@@ -12,6 +12,8 @@ Los pasos más comunes incluyen:
 2. Instalación del **lenguaje o framework** utilizado (Node.js, PHP, Python, etc.).
 3. Configuración de **bases de datos**.
 4. Preparación de **variables de entorno**.
+
+
 ![Servidore joshua](./img/joshua.jpg)
 > Foto de [Joshua Sortino](https://unsplash.com/es/@sortino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos)
 
@@ -25,7 +27,7 @@ Algunas técnicas comunes son:
 - Uso de herramientas de **integración continua (CI/CD)**.
 - Despliegue mediante **contenedores (Docker)**.
 - Uso de plataformas **cloud** como AWS, Azure o Google Cloud.
-
+![Servidor](./img/eftakher.jpg)
 > Foto de [Eftakher Alam](https://unsplash.com/es/@easiblu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos)
 
 ## Herramientas y tecnologías utilizadas
@@ -39,7 +41,7 @@ Existen diferentes herramientas que facilitan la implantación y mantenimiento d
 | AWS / Azure | Cloud | Infraestructura para alojar aplicaciones |
 
 Estas herramientas permiten automatizar procesos, mejorar la escalabilidad y garantizar una mayor estabilidad en los servicios web.
-
+![Servidor](./img/growtika.jpg)
 > Foto de [Growtika](https://unsplash.com/es/@growtika?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") en [Unsplash](https://unsplash.com/es/fotos)
       
 ## Conclusión
