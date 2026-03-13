@@ -12,7 +12,7 @@ Los pasos más comunes incluyen:
 2. Instalación del **lenguaje o framework** utilizado (Node.js, PHP, Python, etc.).
 3. Configuración de **bases de datos**.
 4. Preparación de **variables de entorno**.
-
+![Servidore joshua](./img/joshua.png)
 > Foto de [Joshua Sortino](https://unsplash.com/es/@sortino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos)
 
 ## Proceso de despliegue
