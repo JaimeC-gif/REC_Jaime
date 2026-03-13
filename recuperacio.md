@@ -27,6 +27,7 @@ Algunas técnicas comunes son:
 - Uso de herramientas de **integración continua (CI/CD)**.
 - Despliegue mediante **contenedores (Docker)**.
 - Uso de plataformas **cloud** como AWS, Azure o Google Cloud.
+
 ![Servidor](./img/eftakher.jpg)
 > Foto de [Eftakher Alam](https://unsplash.com/es/@easiblu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos)
 
